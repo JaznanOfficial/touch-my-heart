@@ -19,7 +19,7 @@ a{
     width: 50%;
     padding-left: 5%;
     border-left: 10px solid;
-    border-image: linear-gradient(rgb(140, 0, 255),rgb(255, 1, 234));
+    border-image: linear-gradient(rgb(250, 175, 175),rgb(255, 1, 234));
     border-image-slice: 1;
     margin: 100px auto;
     margin-bottom: 150px;
