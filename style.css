@@ -1,0 +1,51 @@
+body{
+    
+    max-width: 100%;
+    background-image: url(bg\ heart.png);
+    background-repeat: no-repeat;
+    font-family: 'Poppins', sans-serif;
+    margin: 5px auto;
+    background-color: whitesmoke;
+    
+}
+
+a{
+    text-decoration: none;
+}
+
+#last-div{
+    max-width: 100%;
+    height: 50%;
+    width: 50%;
+    padding-left: 5%;
+    border-left: 10px solid;
+    border-image: linear-gradient(rgb(140, 0, 255),rgb(255, 1, 234));
+    border-image-slice: 1;
+    margin: 100px auto;
+    margin-bottom: 150px;
+    background-image: url(heart.jpg);
+}
+#last-div h2{
+    color:navy;
+}
+
+h1{
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 50px;
+    color:rgb(211, 9, 42);
+    text-align: right;
+}
+
+h3{
+    color: rgb(232 77 185);
+}
+
+.box-shadow{
+    box-shadow: 10px 10px 50px red;
+    padding: 60px 30px ;
+    margin: 0 50px;
+    border-radius: 10px;
+
+    .half-width{
+        width: 50%;
+        padding-left: 5%;
